@@ -2,7 +2,7 @@
 
 # dependencies
 node_modules/
-
+connection.js
 # Expo
 .expo/
 dist/
